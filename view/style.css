@@ -3,7 +3,7 @@ body { background: #F3EFE0; font-size: 15px; line-height: 1.64; }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, strong, b { font-family: 'Open Sans', sans-serif !important; margin-bottom: 20px; }
 h1,h4 { font-weight: 700; margin-bottom: 10px; }
-h2,h3 { font-weight: 300; color: #2274a3; }
+h2,h3 { font-weight: 300; color: #5e3820; }
 h2 { font-size: 54px; text-align: center; }
 h3 { font-size: 28px; }
 
@@ -26,20 +26,20 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .icon.icon-email { background-position: 0px -96px; }
 
 .jumbotron {
-	background: no-repeat center right fixed url(images/background_friends.JPG);
+	background: no-repeat center right fixed url(images/background_tree_aneesha.jpg);
 
-	-webkit-background-size: 100%; 
-    -moz-background-size: 100%; 
-    -o-background-size: 100%; 
-    background-size: 100%; 
+	-webkit-background-size: 75%; 
+    -moz-background-size: 75%; 
+    -o-background-size: 75%; 
+    background-size: 75%; 
 	
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	
-	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background_friends.JPG', sizingMethod='scale')";
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background_friends.JPG', sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background_tree_aneesha.jpg', sizingMethod='scale')";
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background_tree_aneesha.jpg', sizingMethod='scale');
 	
 	margin-bottom: 0px;
 	padding: 0px;
@@ -53,7 +53,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	right: 30px;
 	top: 30px;
 }*/
-.jumbotron .overlay { background-color: #2274a3; position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; opacity: 0.75; filter:alpha(opacity=75); z-index: 2; }
+.jumbotron .overlay { background-color: #9c745b; position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; opacity: 0.75; filter:alpha(opacity=75); z-index: 2; }
 
 .jumbotron .container { position: relative; top: 28%; z-index: 4; text-align: center; }
 .jumbotron .container > * { text-align: center; color: #FFFFFF; }
@@ -81,7 +81,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .navbar .nav > li { display: block; float: none; height: 80px; } 
 .navbar .nav > li a { display: block;  height: 80px; text-align: center; padding-top: 30px; font-weight: 600; color: #FFFFFF; }
 .navbar .nav > li a:hover, .navbar .nav > li a:focus { color: #999999; }
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { background: #2274a3; color: #FFFFFF; }
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { background: #9c745b; color: #FFFFFF; }
 .navbar-default .navbar-toggle:hover .icon-bar,
 .navbar-default .navbar-toggle:focus .icon-bar { background: #222222; }
 
